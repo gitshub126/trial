@@ -1,4 +1,4 @@
 # trial
 Trial  codes
 <br>
-Author - Sajal Basak
+Author - Sajal Basak (Partner GITS)
